@@ -58,6 +58,7 @@
     ●  run http://127.0.0.1:8000/refresh
     ●  here you go your site is ready you will land to landing page where some mine vision amd mission is there for welcoming you with my service heighligt and latest products 
     ●  there wil be 2 bars in landing page one on the top and other on left side ,ahan left side tabs will only move you to the lists when you login first but without login you can only         travel in home landing page 
+#  code is in master branch (git pull origin master)
 # Thank You
   for any query you can contact.
     
