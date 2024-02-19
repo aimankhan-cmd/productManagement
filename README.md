@@ -50,7 +50,7 @@
      for my all pages like made header component main bar componenet and many to make it more useful)
    ● Ensure the UI is responsive and user-friendly.(for the responsiveness i prefered to use bootstrap grid system)
 
-# some hints 
+# Some Hints 
    for setting up i made it easy for you  folow the next steps
     ●  clone project
     ●  make database with any name and add name to env file 
@@ -58,7 +58,7 @@
     ●  run http://127.0.0.1:8000/refresh
     ●  here you go your site is ready you will land to landing page where some mine vision amd mission is there for welcoming you with my service heighligt and latest products 
     ●  there wil be 2 bars in landing page one on the top and other on left side ,ahan left side tabs will only move you to the lists when you login first but without login you can only         travel in home landing page 
-# thank you
+# Thank You
   for any query you can contact.
     
      
