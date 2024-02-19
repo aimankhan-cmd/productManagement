@@ -14,16 +14,17 @@
      this will create key for the app and then cache clear and optimize for all routes 
    # (http://127.0.0.1:8000/refresh)
      this will update database table and run seeders of products and users where both seeder functionality is different products is creating manually and users is using factory i         
-     performed bith to showcase that i am acknowledge of both ways
+     performed both to showcase that i am acknowledge of both ways
    
 # 3. Backend Development
-   ● Develop a RESTful API with the following endpoints: (perdormed)
-     i made it whole project in local and made it sever   
+   ● Develop a RESTful API with the following endpoints: (performed)
+     i made it whole project in local and made it sever to check my endpoints 
      # ngrok is helpful to test local project api's 
-   ● GET /api/products to list all products. (this wikk give you table view of all products in your database)
+   ● GET /api/products to list all products. (this will give you table view of all products in your database)
    
    ● POST /api/products to create a new product.
      for this give json data to it like 
+     #csrf token i am handling on backside in controller part
      {
       "name": "Product Name",
       "description": "Product Description",
@@ -61,4 +62,4 @@
   for any query you can contact.
     
      
- ()
+ 
