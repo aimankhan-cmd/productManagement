@@ -1,5 +1,5 @@
 # Product Management System
-  alquran's coding challenge project Product Management
+  Coding challenge project Product Management
 # TechnicalRequirements --> (Followed these requirements)
 # 1. Laravel Setup
     ● Used the latest stable version of Laravel. (Laravel Framework 10.44.0) 
